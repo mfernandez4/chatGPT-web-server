@@ -4,6 +4,7 @@
   "description": "",
   "type": "module",
   "scripts": {
+    "build": "npm install",
     "server": "nodemon server"
   },
   "keywords": [],
